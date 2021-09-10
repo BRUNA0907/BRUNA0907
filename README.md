@@ -4,6 +4,6 @@ My name is Bruna Cavalcante✨✨.
 
 
 - 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning JAVA, SQLServer and Kotlin.
+- 🌱 I’m currently learning .NET, REACT and Kotlin.
 - 📫 How to reach me:  bc857980@gmail.com.
 
